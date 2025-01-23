@@ -1,0 +1,6 @@
+ingress:
+    enabled: true
+    hosts:
+    - name: "chartmuseum.formation-argo.com"
+    path: "/"
+    tls: false
